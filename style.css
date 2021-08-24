@@ -7,11 +7,16 @@ background-color: rgb(143, 129, 189);
 .heading{
  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
  font-size: 22px; 
-
+border-style:dashed dotted groove ridge;
+border-color: lightblue;
 }
 
 #camera{
 box-shadow:8px 8px 100px rgb(171, 214, 248);
 width: 340px;
-height: 340px;
+height: 300px;
+}
+
+p{color:rgb(61, 43, 226) ;
+
 }
